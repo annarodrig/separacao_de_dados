@@ -1,4 +1,4 @@
-# sDesafio Modal
+# Desafio Modal
 
 Resolução do desafio da ModalGR para separar os dados de uma váriavel.
 
